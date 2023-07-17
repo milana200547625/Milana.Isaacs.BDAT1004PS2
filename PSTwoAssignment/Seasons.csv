@@ -1,0 +1,13 @@
+City,Country,Season,Temperature (C),Rainfall (mm)
+Mumbai,India,Winter,24.8,5.9
+Mumbai,India,Spring,28.4,16.2
+Mumbai,India,Summer,27.9,1549.4
+Mumbai,India,Fall,27.6,346.0
+London,United Kingdom,Winter,4.2,207.7
+London,United Kingdom,Spring,8.3,169.6
+London,United Kingdom,Summer,15.7,157.0
+London,United Kingdom,Fall,10.4,218.5
+Cairo,Egypt,Winter,13.6,16.5
+Cairo,Egypt,Spring,20.7,6.5
+Cairo,Egypt,Summer,27.7,0.1
+Cairo,Egypt,Fall,22.2,4.5
